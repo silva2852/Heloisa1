@@ -1,6 +1,6 @@
 # Olá! Me chamo Heloisa Sousa
 
-Desenvolvedora em formacao | Desenvolvimento Web e Cibersegurança | JavaScript & TypeScript  
+Desenvolvedora em formação | Desenvolvimento Web e Cibersegurança | JavaScript & TypeScript  
 Criando projetos, estudando tecnologia e evoluindo um commit por vez.
 
 <p align="center">
